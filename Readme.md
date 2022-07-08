@@ -5,5 +5,7 @@ pip install -r requirements.txt
 git init
 dvc init
 dvc add main.py
+git add .
+git commit -m "first message"
 
 '''
