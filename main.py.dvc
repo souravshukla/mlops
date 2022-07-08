@@ -1,0 +1,4 @@
+outs:
+- md5: 85e23f91108c5c206f8a2feb11f75d26
+  size: 544
+  path: main.py
