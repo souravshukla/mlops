@@ -7,5 +7,8 @@ dvc init
 dvc add main.py
 git add .
 git commit -m "first message"
+git remote add origin https://github.com/souravshukla/mlops.git
+git branch -M main
+dvc repro
 
 '''
